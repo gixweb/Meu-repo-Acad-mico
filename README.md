@@ -21,10 +21,10 @@ Documentar minha evolução acadêmica e técnica, consolidar conhecimentos e co
 
 ## 🛠️ Tecnologias e ferramentas
 
-As tecnologias utilizadas do nosso projeto integrador o [Azreal](https://github.com/HtaOliva/Azreal), podendo incluir:
+As tecnologias utilizadas do nosso projeto integrador o [Azreal](https://github.com/HtaOliva/Azreal), que incluem:
 
 - Java e Spring Boot
-- TypeScript com Angular 17
+- TypeScript com Angular
 - SQL e MySQL
 - Git e GitHub
 
