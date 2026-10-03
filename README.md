@@ -12,14 +12,16 @@ Documentar minha evolução acadêmica e técnica, consolidar conhecimentos e co
 
 - Gestão da informação
 - Inteligência artificial
-- V
-- Qualidade e testes de software (QA)
-- Governança de TI e metodologias ágeis
-- Análise de dados e tecnologia da informação
+- Verificação e validação de software
+- Desenvolvimento Fullstack
+- Empreendedorismo
+- Governança
+- Tech English
+- High Tech aplicado ao mercado
 
 ## 🛠️ Tecnologias e ferramentas
 
-As tecnologias utilizadas variam conforme a disciplina e o projeto, podendo incluir:
+As tecnologias utilizadas do nosso projeto integrador o [Azreal](https://github.com/HtaOliva/Azreal), podendo incluir:
 
 - Java e Spring Boot
 - TypeScript com Angular 17
